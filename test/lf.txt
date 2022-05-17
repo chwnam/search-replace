@@ -1,0 +1,2 @@
+Every line in this file ends with LF.
+You must know that!

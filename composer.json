@@ -1,0 +1,20 @@
+{
+    "name": "changwoo/search-replace",
+    "type": "library",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "changwoo",
+            "email": "ep6tri@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Changwoo\\SearchReplace\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "nikic/php-parser": "^4.13"
+    }
+}
